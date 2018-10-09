@@ -1,11 +1,16 @@
-title: Your awesome title
-email: your-email@example.com
+title: My Reads - Project 6 - Udacity FEND Nanodegree
+email: ebamba@bitsnshine.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is project is part of the Udacity Nanodegree Scholarship in partnership with Google.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ebamba
-github_username:  ebitsdev
+url: "ebits.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter: ebamba
+github: ebitsdev
+linkedin: https://www.linkedin.com/in/emmanuelbamba/
+gitrepo: udacity-fend-myreads-react-site
+host: localhost
+port: 8080 #Use this port for the service worker to properly function on localhost
+
 
 # Build settings
 markdown: kramdown
